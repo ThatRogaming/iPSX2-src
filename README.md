@@ -4,7 +4,7 @@ The porting process was done using fully AI-assisted coding.
 ## 🛠️ Compatibility
     Confirmed working on iOS 26 and iOS 18 via StikDebug & UTM-Dolphin.js
 
-## 🏆 Recommended Stack
+## 🏆 Recommended Stack 
 
 - **Sidestore**: For easy sideloading and app management.
 - **Stickdebug**: For enabling JIT (use with UTM-Dolphin JIT script).
